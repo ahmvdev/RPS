@@ -1,1 +1,4 @@
-# SIMPLE 5 ROUND ROCK PAPER SCISSORS GAME FOR PRACTICE
+# rock paper scissors
+
+terminal-based rock paper scissors game.
+5 rounds.
